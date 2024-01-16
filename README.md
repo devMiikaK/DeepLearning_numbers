@@ -4,7 +4,8 @@ Data on peräisin MNIST-datasetistä, joka sisältää useita käsinkirjoitettuj
 
 ## script.py
 Skripti kouluttaa ja tallentaa neuroverkon, ja käyttää sitä.
-`èpoch = 5` arvo määrittää, montako kertaa datasetti käydään läpi. Mitä suurempi arvo on, sitä paremmin neuroverkko oppii datasetin
+
+`epoch = 5` arvo määrittää, montako kertaa datasetti käydään läpi. Mitä suurempi arvo on, sitä paremmin neuroverkko oppii datasetin
 
 
 ![Alt text](screenshot.png)
